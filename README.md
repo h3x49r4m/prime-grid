@@ -25,8 +25,8 @@ If the sequence number is a prime number, the cell is rendered with a distinct g
 This project assumes a modern web environment (HTML, CSS, JavaScript).
 
 1. **Prerequisites:** You need a local web server (e.g., VS Code Live Server, `http-server`, or Python's SimpleHTTPServer) to run the HTML file due to module imports and JavaScript module constraints.
-2. **Setup:** Ensure `prime.html` is accessible from your server's root directory.
-3. **Execution:** Open `prime.html` in your web browser.
+2. **Setup:** Ensure `index.html` is accessible from your server's root directory.
+3. **Execution:** Open `index.html` in your web browser.
 
 ### Controls Overview
 
@@ -47,7 +47,7 @@ The core logic relies on the `isPrime` function, which efficiently checks for pr
 **File Structure:**
 ```
 .
-├── prime.html    # Main entry point and visualization logic (incorporates all JS/CSS)
+├── index.html    # Main entry point and visualization logic (incorporates all JS/CSS)
 ```
 
 **Key Technologies Used:**
